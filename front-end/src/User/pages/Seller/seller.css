@@ -1,0 +1,32 @@
+
+
+.seller-container{
+
+        width: 85vw;
+        margin:5% auto;
+        height: max-content;
+      background-color: cadetblue;
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+        padding: 3rem;
+        border-radius: 18px;
+
+}
+.check label{
+    font-size: medium;
+}
+
+@media screen and (max-width:500px) {
+    .seller-container label{
+
+        margin-top: 0.8rem;
+            font-size: 1rem;
+
+
+}
+.check label{
+    font-size: small;
+}
+
+}

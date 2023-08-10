@@ -1,0 +1,38 @@
+.product-container{
+    margin: 1rem;
+   
+    background-color: grey;  
+    border-radius: 8px;
+
+}
+.product-item{
+    padding: 1rem;
+   height: 450px;
+    text-align: center;
+}
+.product-item:hover{
+    box-shadow: 0px 0px 2px 2px white;
+    cursor: pointer;
+}
+.product-image{
+    margin: auto;
+    border-radius: 8px;
+    filter: drop-shadow(0px 0px 4px #454555);
+    width: 250px;
+    height: 200px;
+}
+.product-price-detail{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.product-description{
+    height: 53px;
+    white-space: wrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.product-button{
+   
+
+}

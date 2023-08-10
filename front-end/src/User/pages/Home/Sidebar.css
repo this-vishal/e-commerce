@@ -1,0 +1,19 @@
+.d-block{
+    height: 90vh;
+    width: 100vw;
+    position:relative;
+    
+}
+
+.container-fluid{
+    
+   
+    position: relative;
+}
+.category{
+    width: 90vw;
+    position:absolute;
+ top: 0;
+   
+    
+}
